@@ -1,2 +1,3 @@
 
-print('我爱中华！')
+import django
+print(django.VERSION)
